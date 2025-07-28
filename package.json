@@ -12,5 +12,8 @@
   "devDependencies": {
     "tailwindcss": "^3.4.17",
     "vite": "^7.0.4"
+  },
+  "dependencies": {
+    "tailwindcss-animated": "^2.0.0"
   }
 }
